@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHIT SHAH.</h1>
 <h3 align="center">A COMPUTER SCIENCE STUDENT || Frontend WEB Developer || Competitive Programmer</h3><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-shah840" alt="rohit-shah840" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
