@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm ROHIT SHAH.</h1>
-<h3 align="center">A COMPUTER SCIENCE STUDENT || Frontend WEB Developer || Competitive Programmer</h3><br>
+<h1 align="center">A COMPUTER SCIENCE STUDENT || Frontend WEB Developer </h1><br>
+
+- 👋 Hi, I'm ROHIT SHAH.
+- 👀 I’m interested in Competative Coding.
+- 🌱 I’m currently learning ...
+- 📫 How to reach me rohitshah@gmail.com
+
+
 
 
 
