@@ -1,9 +1,10 @@
-<h1 align="center">A COMPUTER SCIENCE STUDENT || Frontend WEB Developer </h1><br>
+<h1 align="center">👋 Hi, I'm ROHIT SHAH.</h1>
+<h3 align="center">A COMPUTER SCIENCE STUDENT || Frontend WEB Developer </h3>
 
-- 👋 Hi, I'm ROHIT SHAH.
-- 👀 I’m interested in Competative Coding.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in exploring the tech world.
+- 🌱 I’m currently learning Data structure and Algorithm
 - 📫 How to reach me rohitshah1455@gmail.com
+- 🍁 Here is my Mrotfolio link -- > <a href="https://rohit-shah840.github.io/Portfolio/" target="_blank">CLICK HERE </a>
 
 
 
