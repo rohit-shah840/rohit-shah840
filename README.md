@@ -4,8 +4,9 @@
 - 👀 I’m interested in exploring the tech world.
 - 🌱 I’m currently learning Data structure and Algorithm
 - 📫 How to reach me rohitshah1455@gmail.com
-- 🍁 Here is my Mrotfolio link -- > <a href="https://rohit-shah840.github.io/Portfolio/" target="_blank">CLICK HERE </a>
-
+- 🍁 Here is my protfolio link --> <a href="https://rohit-shah840.github.io/Portfolio/" target="_blank" >CLICK HERE </a>
+- 👨‍💻 LinkdIn Profile --> <a href="https://www.linkedin.com/in/rohit-shah-480721224/" target="_blank" > LinkdIN</a>
+- ✍️ LeetCode Profile --> <a href="https://leetcode.com/Rohit_Shah/" target="_blank" > LeetCode</a>
 
 
 
